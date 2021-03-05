@@ -6,3 +6,6 @@
 
 # socials [github](https://github.com/crbyxwpzfl/crbyxwpzfl/discussions) | [twitter](https://twitter.com/crbyxwpzfl) | [snapchat](https://www.snapchat.com/add/crbyxwpzfl) | [facebook](https://www.facebook.com/crbyxwpzfl) | [applemusic](https://music.apple.com/profile/crbyxwpzfl)
 
+<img align="center" src="https://github.com/crbyxwpzfl/crbyxwpzfl/blob/main/applemusic.png" width="50" height="50" />
+
+
