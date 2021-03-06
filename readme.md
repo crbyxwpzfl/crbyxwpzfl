@@ -35,6 +35,6 @@
 &nbsp;
 [<img align="center" src="https://user-images.githubusercontent.com/60987359/110212618-82d61c00-7e9c-11eb-90f7-af0c1f6b9922.png" height="20" />][python]
 &nbsp;
-[<img align="center" src="https://user-images.githubusercontent.com/60987359/110212620-836eb280-7e9c-11eb-8755-be547b25a1a1.png" height="20" />][nodejs]
+[<img align="center" src="https://user-images.githubusercontent.com/60987359/110212620-836eb280-7e9c-11eb-8755-be547b25a1a1.png" height="30" />][nodejs]
 &nbsp;
 [<img align="center" src="https://user-images.githubusercontent.com/60987359/110212621-836eb280-7e9c-11eb-8a02-d451c7c0abb0.png" height="20" />][gists]
