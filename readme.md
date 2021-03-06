@@ -18,6 +18,6 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/60987359/110144767-fd3d6800-7dd8-11eb-91a3-8e36cb6d30ed.png" width="200" height="200" />
-  <img align="left "src="https://pbs.twimg.com/profile_banners/2177054297/1512901091/1500x500" width="600" height="200"/>
+  <img src="https://user-images.githubusercontent.com/60987359/110144767-fd3d6800-7dd8-11eb-91a3-8e36cb6d30ed.png" width="200" height="200" />
+  <img src="https://pbs.twimg.com/profile_banners/2177054297/1512901091/1500x500" width="600" height="200"/>
 </p>
