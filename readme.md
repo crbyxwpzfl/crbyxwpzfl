@@ -27,7 +27,7 @@
 &nbsp;
 [<img align="center" src="https://user-images.githubusercontent.com/60987359/110212621-836eb280-7e9c-11eb-8a02-d451c7c0abb0.png" height="15" />][gists]
 &nbsp;
-[<img align="center" src="https://user-images.githubusercontent.com/60987359/116066345-3f23b580-a688-11eb-81c9-40a71faafc24.png" height="30" />][ff]
+[<img align="center" src="https://user-images.githubusercontent.com/60987359/116067629-9bd3a000-a689-11eb-810b-4f25d04086c7.png" height="35" />][ff]
 &nbsp;
 
 [<img align="right" src="https://user-images.githubusercontent.com/60987359/110203036-2d821680-7e6c-11eb-9527-5d9d74d4a274.png" width="13" height="13" />][paypal]
