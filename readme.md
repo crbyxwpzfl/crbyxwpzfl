@@ -6,11 +6,11 @@
 [applemusic]:https://music.apple.com/profile/crbyxwpzfl
 
 [nvim]:https://gist.github.com/crbyxwpzfl/322ad5225cbffe799a78a37e896197a4
-[git]:https://github.com/crbyxwpzfl/git
-[ffmpeg]:https://github.com/crbyxwpzfl/ffmpeg
-[gists]:https://github.com/crbyxwpzfl/gists
-[nodejs]:https://github.com/crbyxwpzfl/nodejs
-[python]:https://github.com/crbyxwpzfl/python
+[git]:https://gist.github.com/crbyxwpzfl/d0c106a976e0572d7741d063d078e332
+[ffmpeg]:https://github.com/GyanD/codexffmpeg
+[gists]:https://gist.github.com/crbyxwpzfl
+[nodejs]:https://gist.github.com/crbyxwpzfl/b5e9597a82f4082209491f32b90af816
+[python]:https://gist.github.com/crbyxwpzfl/d95a2e2a90a96a70bd8f37c5ca71308a
 [ff]:https://github.com/crbyxwpzfl/ff
 [spinala]:https://gist.github.com/crbyxwpzfl/a3091ad72f503de47969eba95e09ecaf
 
