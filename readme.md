@@ -5,14 +5,14 @@
 [paypal]:https://paypal.me/crbyxwpzfl
 [applemusic]:https://music.apple.com/profile/crbyxwpzfl
 
-[nvim]:https://github.com/crbyxwpzfl/nvim
+[nvim]:https://gist.github.com/crbyxwpzfl/322ad5225cbffe799a78a37e896197a4
 [git]:https://github.com/crbyxwpzfl/git
 [ffmpeg]:https://github.com/crbyxwpzfl/ffmpeg
 [gists]:https://github.com/crbyxwpzfl/gists
 [nodejs]:https://github.com/crbyxwpzfl/nodejs
 [python]:https://github.com/crbyxwpzfl/python
 [ff]:https://github.com/crbyxwpzfl/ff
-[spinala]:https://github.com/crbyxwpzfl/spinala
+[spinala]:https://gist.github.com/crbyxwpzfl/a3091ad72f503de47969eba95e09ecaf
 
 [<img src="https://pbs.twimg.com/profile_banners/2177054297/1512901091/1500x500" />][twitter]
 
