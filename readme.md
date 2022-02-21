@@ -12,7 +12,7 @@
 [nodejs]:https://gist.github.com/crbyxwpzfl/b5e9597a82f4082209491f32b90af816
 [python]:https://gist.github.com/crbyxwpzfl/d95a2e2a90a96a70bd8f37c5ca71308a
 [ff]:https://github.com/crbyxwpzfl/ff
-[spinala]:https://gist.github.com/crbyxwpzfl/a3091ad72f503de47969eba95e09ecaf
+[spinala]:https://github.com/crbyxwpzfl/spinala
 [mini]:https://github.com/crbyxwpzfl/mini
 
 [<img src="https://pbs.twimg.com/profile_banners/2177054297/1512901091/1500x500" />][twitter]
