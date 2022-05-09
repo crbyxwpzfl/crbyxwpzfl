@@ -15,6 +15,7 @@
 [spinala]:https://github.com/crbyxwpzfl/spinala
 [rogflow]:https://github.com/crbyxwpzfl/rogflow
 [mini]:https://github.com/crbyxwpzfl/mini
+[locations]:https://crbyxwpzfl.github.io/spinala/
 
 [<img src="https://pbs.twimg.com/profile_banners/2177054297/1512901091/1500x500" />][twitter]
 
@@ -37,6 +38,8 @@
 [<img align="center" src="https://user-images.githubusercontent.com/60987359/154962116-0203f1e0-8549-428a-b322-0a7a08c65baf.png" height="15" />][rogflow]
 &nbsp;
 [<img align="center" src="https://user-images.githubusercontent.com/60987359/116075512-54521180-a693-11eb-83c0-93221bd00f28.png" height="35" />][spinala]
+&nbsp;
+[<img align="center" src="https://user-images.githubusercontent.com/60987359/167469432-5c392478-30f8-44cf-80d4-0839b29a8f8b.png" height="25" />][locations]
 &nbsp;
 
 [<img align="right" src="https://user-images.githubusercontent.com/60987359/110203036-2d821680-7e6c-11eb-9527-5d9d74d4a274.png" width="13" height="13" />][paypal]
