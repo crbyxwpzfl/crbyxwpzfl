@@ -15,7 +15,7 @@
 [spinala]:https://github.com/crbyxwpzfl/spinala
 [rogflow]:https://github.com/crbyxwpzfl/rogflow
 [mini]:https://github.com/crbyxwpzfl/mini
-[locations]:https://crbyxwpzfl.github.io/spinala/
+[locations]:https://crbyxwpzfl.github.io/ff/
 
 [<img src="https://pbs.twimg.com/profile_banners/2177054297/1512901091/1500x500" />][twitter]
 
