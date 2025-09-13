@@ -1,3 +1,15 @@
+```stl
+solid cube
+  facet normal -1 0 0
+    outer loop
+      vertex 0 50 50
+      vertex 50 -50 -50
+      vertex 50 50 -50
+    endloop
+  endfacet
+endsolid cube
+```
+
 [github]:https://github.com/crbyxwpzfl/crbyxwpzfl/discussions
 [twitter]:https://twitter.com/crbyxwpzfl
 [facebook]:https://facebook.com/crbyxwpzfl
